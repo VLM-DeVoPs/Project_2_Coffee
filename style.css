@@ -1,0 +1,150 @@
+body {
+  background-image: url(https://catherineasquithgallery.com/uploads/posts/2023-01/1674524549_catherineasquithgallery-com-p-fon-dlya-fotoshopa-kofeinie-zerna-6.jpg);
+  font-family: sans-serif;
+  padding-top: 20px;
+}
+
+h1 {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+h2 {
+  font-size: 30px;
+  margin-bottom: 5px;
+}
+
+.established {
+  font-style: italic;
+  margin-top: 2rem;
+}
+
+.hr {
+  margin-bottom: 2rem;
+}
+
+h1,
+h2,
+p {
+  text-align: center;
+}
+
+h1,
+h2 {
+  font-family: impact, serif;
+}
+
+.menu {
+  width: 80%;
+  background-color: burlywood;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 700px;
+  border-radius: 5px;
+}
+
+.desserts_box {
+  padding-bottom: 3rem;
+}
+
+
+.cup_desserts {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+hr {
+  height: 2px;
+  background-color: brown;
+  border-color: brown;
+}
+
+.item p {
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
+.coffee,
+.desserts {
+  text-align: left;
+  width: 70%;
+}
+
+.price {
+  text-align: right;
+  width: 28%;
+}
+
+.facebook img {
+  width: 20px;
+  display: inline-block;
+  text-align: left;
+}
+
+.youtube img {
+  display: inline-block;
+  width: 20px;
+}
+
+.instagram img {
+  display: inline-block;
+  width: 20px;
+}
+
+.vk img {
+  display: inline-block;
+  width: 20px;
+}
+
+.website img {
+  width: 20px;
+}
+
+.odnoklassniki img {
+  width: 20px;
+}
+
+.twitter img {
+  display: inline-block;
+  width: 20px;
+}
+
+.skype img {
+  display: inline-block;
+  width: 20px;
+}
+
+.mail img {
+  display: inline-block;
+  width: 20px;
+}
+
+.whatsapp img {
+  display: inline-block;
+  width: 20px;
+}
+
+.viber img {
+  display: inline-block;
+  width: 20px;
+}
+
+.social_networks {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+  margin-left: 5rem;
+  margin-right: 5rem;
+}
+
+h5 {
+  text-align: center;
+  margin-top: 30px;
+}
